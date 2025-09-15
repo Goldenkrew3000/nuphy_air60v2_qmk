@@ -2,16 +2,16 @@
     "keyboard_name": "NuPhy Air60 V2",
     "manufacturer": "NuPhy",
     "usb":{
-        "vid": "0x19F5",
-        "pid": "0x3255",
+        "vid": "0x046D",
+        "pid": "0xC31C",
         "device_version": "1.1.7",
         "no_startup_check": true
     },
     "features": {
         "bootmagic": true,
-        "mousekey": true,
+        "mousekey": false,
         "extrakey": true,
-        "console": true,
+        "console": false,
         "command": false,
         "nkro": true,
         "key_lock": true,
