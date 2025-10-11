@@ -9,6 +9,7 @@
 ## What is this fork?
 This fork is a personal modification of the Nuphy Air60 v2 firmware.<br>
 It mostly just changes the key layout at the code level (VIA does not work for me), and changes some things to do with the LED backlighting.<br>
+Oh, and it also allows this keyboard to work under FreeBSD natively.<br>
 
 ## Original Readme
 
