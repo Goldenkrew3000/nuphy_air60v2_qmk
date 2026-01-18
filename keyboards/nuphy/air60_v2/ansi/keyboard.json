@@ -1,10 +1,10 @@
 {
-    "keyboard_name": "Logitech K120",
+    "keyboard_name": "USB Keyboard",
     "manufacturer": "Logitech",
     "usb": {
         "vid": "0x046D",
         "pid": "0xC31C",
-        "device_version": "1.1.7",
+        "device_version": "64.0.0",
         "no_startup_check": true
     },
     "features": {
